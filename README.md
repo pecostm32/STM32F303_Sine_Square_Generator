@@ -12,4 +12,4 @@ PC14 for RS, PC15 for E, PA0 - PA3 for databus
 
 A rotary encoder can be connected to PB0 and PB1
 
-On the display the current phase difference between the sine wave and the square waves is shown. With the rotray encoder it can be moved in steps of 5 a degree.
+On the display the current phase difference between the sine wave and the square waves is shown. With the rotray encoder it can be moved in steps of half a degree.
